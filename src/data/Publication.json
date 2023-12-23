@@ -1,0 +1,26 @@
+[
+    {
+        "name": "IEEE",
+        "country": "USA",
+        "username": "ieee",
+        "password": "ieee"
+    },
+    {
+        "name": "Springler",
+        "country": "UK",
+        "username": "springler",
+        "password": "springler"
+    },
+    {
+        "name": "NFTS",
+        "country": "India",
+        "username": "nfts",
+        "password": "nfts"
+    },
+    {
+        "name": "FFRDC",
+        "country": "US",
+        "username": "ffrdc",
+        "password": "ffrdc"
+    }
+]

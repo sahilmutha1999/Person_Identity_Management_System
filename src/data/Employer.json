@@ -1,0 +1,90 @@
+[
+    {
+        "EmployerOrganization": {
+            "name": "LDC",
+            "industry": "Fintech",
+            "country": "India"
+        },
+        "Employee": [
+            {
+                "Person": {
+                    "name": "Hiring Manager",
+                    "emailAddress": "hm@gmail.com",
+                    "contactNumber": "123213122",
+                    "__gender": "Male / Female",
+                    "gender": "Male",
+                    "age": 23
+                },
+                "UserAccount": {
+                    "username": "h",
+                    "password": "h"
+                },
+                "Role": "HiringManagerRole"
+            },
+            {
+                "Person": {
+                    "name": "admin",
+                    "emailAddress": "admin@gmail.com",
+                    "contactNumber": "123213122",
+                    "__gender": "Male / Female",
+                    "gender": "Male",
+                    "age": 23
+                },
+                "UserAccount": {
+                    "username": "a",
+                    "password": "a"
+                },
+                "Role": "AdminRole"
+            },
+            {
+                "Person": {
+                    "name": "Recruiter",
+                    "emailAddress": "r@gmail.com",
+                    "contactNumber": "123213122",
+                    "__gender": "Male / Female",
+                    "gender": "Male",
+                    "age": 23
+                },
+                "UserAccount": {
+                    "username": "r",
+                    "password": "r"
+                },
+                "Role": "RecruiterRole"
+            }
+        ],
+        "JobRole": [
+            {
+                "name": "SDE-1",
+                "domain": "Technology",
+                "description": "Software development",
+                "location": "Boston",
+                "pay": 56.5,
+                "intakePeriod": "Fall 2024"
+            },
+            {
+                "name": "SDE-2",
+                "domain": "Technology",
+                "description": "Software development",
+                "location": "NY",
+                "pay": 100.5,
+                "intakePeriod": "Spring 2024"
+            },
+            {
+                "name": "Sales Representative",
+                "domain": "Sales",
+                "description": "Software development",
+                "location": "Boston",
+                "pay": 41.5,
+                "intakePeriod": "Fall 2024"
+            },
+            {
+                "name": "Digital Marketing Executive",
+                "domain": "Marketing",
+                "description": "Software development",
+                "location": "TX",
+                "pay": 66.5,
+                "intakePeriod": "Spring 2024"
+            }
+        ]
+    }
+]

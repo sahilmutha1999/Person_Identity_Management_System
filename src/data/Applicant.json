@@ -1,0 +1,87 @@
+[
+    {
+        "Person": {
+            "name": "Meet Bhanushali",
+            "emailAddress": "meet@gmail.com",
+            "contactNumber": "123213122",
+            "__gender": "Male / Female",
+            "gender": "Male",
+            "age": 23
+        },
+        "UserAccount": {
+            "username": "m",
+            "password": "m"
+        },
+        "Role": "ApplicantRole",
+        "Education": [
+            {
+                "degreeType": "Bechlor",
+                "university": "Northeastern University",
+                "major": "Computer Engineering",
+                "startMonth": 5,
+                "startYear": 2017,
+                "endMonth": 7,
+                "endYear": 2021,
+                "grade": 98.4,
+                "isVerified": true
+            },
+            {
+                "degreeType": "Master",
+                "university": "Northeastern University",
+                "major": "Computer Science",
+                "startMonth": 5,
+                "startYear": 2023,
+                "endMonth": 0,
+                "endYear": 0,
+                "grade": 98.4,
+                "isVerified": true
+            }
+        ],
+        "Employment": [
+            {
+                "employer": "LDC",
+                "position": "SDE",
+                "startMonth": 8,
+                "startYear": 2021,
+                "endMonth": 10,
+                "endYear": 2022,
+                "description": "Job Description",
+                "grade": 98.4,
+                "isVerified": true
+            },
+            {
+                "employer": "LDC",
+                "position": "SDE",
+                "startMonth": 8,
+                "startYear": 2021,
+                "endMonth": 10,
+                "endYear": 2022,
+                "description": "Job Description",
+                "grade": 98.4,
+                "isVerified": true
+            }
+        ],
+        "Project": [
+            {
+                "name": "Online Compiler",
+                "__type": "Personal / Academic",
+                "type": "Personal",
+                "description": "Online Compiler Desc",
+                "startMonth": 5,
+                "startYear": 2023,
+                "endMonth": 0,
+                "endYear": 0
+            },
+            {
+                "name": "Online Compiler",
+                "__type": "Personal / Academic",
+                "type": "Academic",
+                "description": "Online Compiler Desc",
+                "startMonth": 5,
+                "startYear": 2023,
+                "endMonth": 0,
+                "endYear": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,882 @@
+[{
+  "EmployerOrganization": {
+    "name": "Streich-Collier",
+    "industry": "Military",
+    "country": "Kenya"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Lashonda Kohler",
+        "emailAddress": "lashawnda.crist@hotmail.com",
+        "contactNumber": "(127) 884-4558",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 52
+      },
+      "UserAccount": {
+        "username": "pasquale.nikolaus",
+        "password": "7257txyg8i44mn!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Luigi Kreiger DDS",
+        "emailAddress": "shanel.becker@gmail.com",
+        "contactNumber": "1-626-947-9864",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 54
+      },
+      "UserAccount": {
+        "username": "karan.konopelski",
+        "password": "3zu35iqgif13kq!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Pearl Powlowski",
+        "emailAddress": "marva.gerlach@hotmail.com",
+        "contactNumber": "399-690-1946",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 53
+      },
+      "UserAccount": {
+        "username": "leland.orn",
+        "password": "oza3itzjc08106b!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Forward Sales Manager",
+      "domain": "Sales",
+      "description": "Et ipsam delectus voluptatem sapiente dolor.",
+      "location": "Emilioburgh",
+      "pay": 0.18451087685989032,
+      "intakePeriod": "Spring 2028"
+    },
+    {
+      "name": "SDE-2",
+      "domain": "Technology",
+      "description": "Software development",
+      "location": "NY",
+      "pay": 100.5,
+      "intakePeriod": "Spring 2024"
+    },
+    {
+      "name": "Sales Representative",
+      "domain": "Sales",
+      "description": "Software development",
+      "location": "Boston",
+      "pay": 41.5,
+      "intakePeriod": "Fall 2024"
+    },
+    {
+      "name": "Digital Marketing Executive",
+      "domain": "Marketing",
+      "description": "Software development",
+      "location": "TX",
+      "pay": 66.5,
+      "intakePeriod": "Spring 2024"
+    }
+  ]
+},
+
+{
+  "EmployerOrganization": {
+    "name": "Kunze, Gleason and Hoppe",
+    "industry": "Insurance",
+    "country": "Yemen"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Jana Hickle",
+        "emailAddress": "nilsa.hickle@yahoo.com",
+        "contactNumber": "180.531.1485",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 24
+      },
+      "UserAccount": {
+        "username": "nathan.bins",
+        "password": "io6cn5kxteb41iv!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Mrs. Jeromy Champlin",
+        "emailAddress": "gordon.osinski@yahoo.com",
+        "contactNumber": "1-289-998-5197 x327",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 41
+      },
+      "UserAccount": {
+        "username": "wilfredo.kirlin",
+        "password": "cuz90jnb776y3!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Royal Kuhlman V",
+        "emailAddress": "reed.bode@yahoo.com",
+        "contactNumber": "207-731-0921",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 25
+      },
+      "UserAccount": {
+        "username": "angelo.ortiz",
+        "password": "my21258hv7c89nj!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Real-Estate Developer",
+      "domain": "IT",
+      "description": "Et iste animi quidem iusto minima mollitia.",
+      "location": "East Eddieshire",
+      "pay": 0.1274610896025331,
+      "intakePeriod": "Spring 2025"
+    },
+    {
+      "name": "Global Design Designer",
+      "domain": "Accounting",
+      "description": "Facere at illo optio id in quis.",
+      "location": "North Renaldo",
+      "pay": 0.42378820950328433,
+      "intakePeriod": "Spring 2028"
+    },
+    {
+      "name": "Principal Administrator",
+      "domain": "Real-Estate",
+      "description": "Nemo adipisci vel.",
+      "location": "Lonview",
+      "pay": 0.9112938734636925,
+      "intakePeriod": "Spring 2030"
+    },
+    {
+      "name": "Senior Technology Associate",
+      "domain": "Administration",
+      "description": "Qui qui placeat et consequatur nam autem molestiae.",
+      "location": "Lake Hung",
+      "pay": 0.8488053827330582,
+      "intakePeriod": "Fall 2027"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Bauch, Fay and Schmidt",
+    "industry": "Utilities",
+    "country": "Malawi"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Valery Littel",
+        "emailAddress": "ambrose.hessel@gmail.com",
+        "contactNumber": "1-603-945-9565 x80382",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 44
+      },
+      "UserAccount": {
+        "username": "laurence.walker",
+        "password": "ey7q5ifloiy073y!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Angelyn Rowe",
+        "emailAddress": "cami.goyette@yahoo.com",
+        "contactNumber": "479-319-9691 x87566",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 56
+      },
+      "UserAccount": {
+        "username": "rocky.mayert",
+        "password": "0rv3ifu42nt35hq!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Mrs. Ozzie Turner",
+        "emailAddress": "elias.okeefe@gmail.com",
+        "contactNumber": "(781) 605-0654 x17818",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 43
+      },
+      "UserAccount": {
+        "username": "bobby.braun",
+        "password": "si7f9dfo35ta!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Regional Administration Supervisor",
+      "domain": "Retail",
+      "description": "Eveniet debitis libero nisi.",
+      "location": "Chington",
+      "pay": 0.3738487437528154,
+      "intakePeriod": "Fall 2029"
+    },
+    {
+      "name": "Regional Farming Technician",
+      "domain": "Real-Estate",
+      "description": "Quis est rem id.",
+      "location": "North Kathlene",
+      "pay": 0.3020392119522328,
+      "intakePeriod": "Spring 2024"
+    },
+    {
+      "name": "Corporate Advertising Technician",
+      "domain": "Marketing",
+      "description": "Ut incidunt autem voluptatem harum.",
+      "location": "Micahshire",
+      "pay": 0.25658954747418716,
+      "intakePeriod": "Fall 2022"
+    },
+    {
+      "name": "Advertising Technician",
+      "domain": "Healthcare",
+      "description": "Dignissimos esse tempore deleniti.",
+      "location": "Lake Omer",
+      "pay": 0.07994147828173159,
+      "intakePeriod": "Fall 2022"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Gibson, Gerlach and Kessler",
+    "industry": "Primary / Secondary Education",
+    "country": "San Marino"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Freddie Wuckert",
+        "emailAddress": "numbers.renner@hotmail.com",
+        "contactNumber": "(326) 349-6948",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 32
+      },
+      "UserAccount": {
+        "username": "junita.veum",
+        "password": "r5edy1dji13nu!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Evelia Beer",
+        "emailAddress": "eunice.keeling@hotmail.com",
+        "contactNumber": "(448) 696-2416 x64682",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 27
+      },
+      "UserAccount": {
+        "username": "nedra.braun",
+        "password": "2pgtnklrgfl26k1!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Eddy Kohler",
+        "emailAddress": "bertram.olson@yahoo.com",
+        "contactNumber": "668.066.4817 x9940",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 54
+      },
+      "UserAccount": {
+        "username": "refugia.koss",
+        "password": "tbuv2ugqmn44j9!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Regional IT Administrator",
+      "domain": "Advertising",
+      "description": "Minus consectetur consequatur suscipit doloremque sint aut accusamus.",
+      "location": "New Ulysses",
+      "pay": 0.24481561167256594,
+      "intakePeriod": "Fall 2024"
+    },
+    {
+      "name": "Legacy Mining Facilitator",
+      "domain": "Sales",
+      "description": "Nobis sapiente voluptatem porro libero ut id.",
+      "location": "Port Dan",
+      "pay": 0.4464806374031123,
+      "intakePeriod": "Spring 2022"
+    },
+    {
+      "name": "Legal Assistant",
+      "domain": "Hospitality",
+      "description": "Ut totam quo.",
+      "location": "Hiltonborough",
+      "pay": 0.7774001145690691,
+      "intakePeriod": "Spring 2026"
+    },
+    {
+      "name": "Design Director",
+      "domain": "Community-Services",
+      "description": "Est aspernatur odio dolores itaque.",
+      "location": "North Florencio",
+      "pay": 0.5196882345238826,
+      "intakePeriod": "Spring 2023"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Wuckert-Johns",
+    "industry": "Food Production",
+    "country": "Guinea-Bissau"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Les Gutkowski IV",
+        "emailAddress": "donetta.hyatt@hotmail.com",
+        "contactNumber": "(199) 148-3176 x272",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 35
+      },
+      "UserAccount": {
+        "username": "roman.bahringer",
+        "password": "2r7gbg5w5m714g!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Shalonda Larson",
+        "emailAddress": "paris.runolfsson@hotmail.com",
+        "contactNumber": "350.541.2411",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 25
+      },
+      "UserAccount": {
+        "username": "devon.gerhold",
+        "password": "n9itgisokyw56bo!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Tobias Bradtke",
+        "emailAddress": "eva.oconnell@gmail.com",
+        "contactNumber": "(706) 260-0947 x645",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 56
+      },
+      "UserAccount": {
+        "username": "newton.treutel",
+        "password": "34yualssdm85kw!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Accounting Agent",
+      "domain": "Technology",
+      "description": "Minima corrupti eligendi nemo aperiam repudiandae distinctio.",
+      "location": "South Chance",
+      "pay": 0.8034570448257359,
+      "intakePeriod": "Fall 2030"
+    },
+    {
+      "name": "Global Accounting Manager",
+      "domain": "Banking",
+      "description": "Amet recusandae deleniti itaque molestias corrupti asperiores.",
+      "location": "Weimannfurt",
+      "pay": 0.5649518879406357,
+      "intakePeriod": "Spring 2024"
+    },
+    {
+      "name": "IT Strategist",
+      "domain": "Sales",
+      "description": "Molestiae amet quidem odit accusamus veniam.",
+      "location": "Rafaelhaven",
+      "pay": 0.18567156781839356,
+      "intakePeriod": "Spring 2023"
+    },
+    {
+      "name": "Lead Community-Services Technician",
+      "domain": "Manufacturing",
+      "description": "Aut eius impedit rerum.",
+      "location": "South Darnell",
+      "pay": 0.9080685067821175,
+      "intakePeriod": "Fall 2024"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Hoppe-Wolff",
+    "industry": "Insurance",
+    "country": "Senegal"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Robert Bayer",
+        "emailAddress": "robin.lowe@yahoo.com",
+        "contactNumber": "(034) 042-4059 x75388",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 23
+      },
+      "UserAccount": {
+        "username": "jesus.leuschke",
+        "password": "cfe8yu50e60ku!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Rina Bashirian Jr.",
+        "emailAddress": "vincenzo.heller@gmail.com",
+        "contactNumber": "(506) 432-2592 x44831",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 25
+      },
+      "UserAccount": {
+        "username": "marleen.cummings",
+        "password": "pinkv4zoktn77mt!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Bert Graham",
+        "emailAddress": "victoria.williamson@gmail.com",
+        "contactNumber": "(565) 042-9356",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 31
+      },
+      "UserAccount": {
+        "username": "joyce.schaden",
+        "password": "6uuzhvj4k91uj!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Principal Mining Developer",
+      "domain": "Real-Estate",
+      "description": "Enim dolore distinctio dicta ex dolore aut et.",
+      "location": "Kamberg",
+      "pay": 0.6494111012175696,
+      "intakePeriod": "Fall 2027"
+    },
+    {
+      "name": "Senior Architect",
+      "domain": "Mining",
+      "description": "Eum dignissimos occaecati et ut.",
+      "location": "East Ja",
+      "pay": 0.12133493299596776,
+      "intakePeriod": "Fall 2023"
+    },
+    {
+      "name": "Chief Healthcare Coordinator",
+      "domain": "Real-Estate",
+      "description": "Cumque voluptatem minima.",
+      "location": "South Cyndiburgh",
+      "pay": 0.7189028819115922,
+      "intakePeriod": "Fall 2026"
+    },
+    {
+      "name": "District Hospitality Engineer",
+      "domain": "Government",
+      "description": "Cumque hic alias.",
+      "location": "New Wadeshire",
+      "pay": 0.06951410004700453,
+      "intakePeriod": "Fall 2026"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Lesch-Denesik",
+    "industry": "Veterinary",
+    "country": "Kazakhstan"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Theron Gorczany",
+        "emailAddress": "trinidad.berge@yahoo.com",
+        "contactNumber": "510-633-3737 x045",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 56
+      },
+      "UserAccount": {
+        "username": "gayla.effertz",
+        "password": "j813s6fbui84pj!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Brigid Kautzer",
+        "emailAddress": "virgil.schulist@hotmail.com",
+        "contactNumber": "020-924-4454 x5410",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 49
+      },
+      "UserAccount": {
+        "username": "shella.ziemann",
+        "password": "t8c8r1mrq09sv!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Tiffany Volkman Sr.",
+        "emailAddress": "collene.heathcote@gmail.com",
+        "contactNumber": "1-012-772-9328 x935",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 22
+      },
+      "UserAccount": {
+        "username": "emery.legros",
+        "password": "nhi1jhmut47gf!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Government Consultant",
+      "domain": "Marketing",
+      "description": "Quas expedita distinctio.",
+      "location": "South Soburgh",
+      "pay": 0.8221343038889307,
+      "intakePeriod": "Spring 2026"
+    },
+    {
+      "name": "Lead Legal Designer",
+      "domain": "Healthcare",
+      "description": "Ea fuga quasi unde.",
+      "location": "Port China",
+      "pay": 0.460849312488135,
+      "intakePeriod": "Spring 2023"
+    },
+    {
+      "name": "Principal Retail Technician",
+      "domain": "Community-Services",
+      "description": "Quaerat earum exercitationem est sint veritatis rerum minus.",
+      "location": "Medhurstbury",
+      "pay": 0.8978838178832589,
+      "intakePeriod": "Spring 2028"
+    },
+    {
+      "name": "Consulting Designer",
+      "domain": "IT",
+      "description": "Est nam laudantium accusantium eaque.",
+      "location": "New Maryellenville",
+      "pay": 0.09713816162534739,
+      "intakePeriod": "Spring 2029"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Stracke, Carter and Quigley",
+    "industry": "Aviation \u0026 Aerospace",
+    "country": "Egypt"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Mrs. Hassie Crona",
+        "emailAddress": "jamila.greenholt@yahoo.com",
+        "contactNumber": "(262) 917-5707 x652",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 44
+      },
+      "UserAccount": {
+        "username": "gaye.reinger",
+        "password": "vqfw7fbks9770!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Sam Kozey",
+        "emailAddress": "tessie.jacobs@gmail.com",
+        "contactNumber": "665-082-0321 x26256",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 32
+      },
+      "UserAccount": {
+        "username": "carmella.schaefer",
+        "password": "brovd42q8cu843g!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Malcom Rempel",
+        "emailAddress": "meta.koss@hotmail.com",
+        "contactNumber": "1-593-004-1743 x112",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 22
+      },
+      "UserAccount": {
+        "username": "stephaine.osinski",
+        "password": "2914uru48g85fb!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Direct Technology Facilitator",
+      "domain": "Design",
+      "description": "Dolor repellendus atque facilis commodi non.",
+      "location": "Rueckertown",
+      "pay": 0.42785999651926687,
+      "intakePeriod": "Spring 2030"
+    },
+    {
+      "name": "Forward Marketing Agent",
+      "domain": "IT",
+      "description": "Dicta et et aut aut aliquam et molestiae.",
+      "location": "New Andrew",
+      "pay": 0.8514915343086573,
+      "intakePeriod": "Spring 2025"
+    },
+    {
+      "name": "Chief Officer",
+      "domain": "Marketing",
+      "description": "Laboriosam natus ad fuga sequi molestiae hic ea.",
+      "location": "East Renatoborough",
+      "pay": 0.09318146807849204,
+      "intakePeriod": "Spring 2024"
+    },
+    {
+      "name": "Investor Design Orchestrator",
+      "domain": "Manufacturing",
+      "description": "Dolor sit voluptas vitae.",
+      "location": "South Kirk",
+      "pay": 0.0840696923042763,
+      "intakePeriod": "Spring 2026"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Douglas and Sons",
+    "industry": "Mechanical or Industrial Engineering",
+    "country": "Saudi Arabia"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Ima Vandervort",
+        "emailAddress": "cedric.beer@yahoo.com",
+        "contactNumber": "793.657.9955 x076",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 50
+      },
+      "UserAccount": {
+        "username": "ricardo.hagenes",
+        "password": "impziyl8m108u!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Miss Raymond Nolan",
+        "emailAddress": "rigoberto.feeney@hotmail.com",
+        "contactNumber": "176-053-4190",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 42
+      },
+      "UserAccount": {
+        "username": "cruz.zulauf",
+        "password": "06yi4hyiy1241bl!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Tonette Gottlieb",
+        "emailAddress": "myrtie.parker@gmail.com",
+        "contactNumber": "1-613-008-7559 x44513",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 38
+      },
+      "UserAccount": {
+        "username": "randal.mayert",
+        "password": "s7z9dtkn32pa!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Accounting Liaison",
+      "domain": "Real-Estate",
+      "description": "Et distinctio tempora cupiditate corrupti.",
+      "location": "Kilbackborough",
+      "pay": 0.7512075982742148,
+      "intakePeriod": "Fall 2027"
+    },
+    {
+      "name": "Consulting Architect",
+      "domain": "Marketing",
+      "description": "Voluptatibus sunt et nesciunt et culpa maiores.",
+      "location": "East Bette",
+      "pay": 0.5747496872670514,
+      "intakePeriod": "Spring 2028"
+    },
+    {
+      "name": "Central Advertising Executive",
+      "domain": "Sales",
+      "description": "Ipsum dicta omnis hic consequatur consequatur voluptatem.",
+      "location": "Olinburgh",
+      "pay": 0.4830997793041413,
+      "intakePeriod": "Spring 2029"
+    },
+    {
+      "name": "Product Healthcare Liaison",
+      "domain": "Marketing",
+      "description": "Voluptatem velit deleniti sit sint.",
+      "location": "Lake Genafort",
+      "pay": 0.5282749788140345,
+      "intakePeriod": "Fall 2025"
+    }
+  ]
+},
+{
+  "EmployerOrganization": {
+    "name": "Durgan, Auer and D\u0027Amore",
+    "industry": "Textiles",
+    "country": "Cameroon"
+  },
+  "Employee": [
+    {
+      "Person": {
+        "name": "Gianna Keeling",
+        "emailAddress": "eliza.sawayn@hotmail.com",
+        "contactNumber": "733-619-3436 x1298",
+        "__gender": "Male / Female",
+        "gender": "male",
+        "age": 26
+      },
+      "UserAccount": {
+        "username": "daphine.abernathy",
+        "password": "y9b8kbezy273b2!@"
+      },
+      "Role": "HiringManagerRole"
+    },
+    {
+      "Person": {
+        "name": "Agustin Wisozk II",
+        "emailAddress": "harmony.hilll@yahoo.com",
+        "contactNumber": "1-131-406-3985",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 40
+      },
+      "UserAccount": {
+        "username": "leticia.koch",
+        "password": "ti5vxlbgi23s2!@"
+      },
+      "Role": "AdminRole"
+    },
+    {
+      "Person": {
+        "name": "Timmy Sawayn",
+        "emailAddress": "phuong.champlin@gmail.com",
+        "contactNumber": "232.533.7821 x969",
+        "__gender": "Male / Female",
+        "gender": "female",
+        "age": 44
+      },
+      "UserAccount": {
+        "username": "elvira.johnston",
+        "password": "zxp8w7mbx5x78j9!@"
+      },
+      "Role": "RecruiterRole"
+    }
+  ],
+  "JobRole": [
+    {
+      "name": "Investor Manufacturing Engineer",
+      "domain": "Administration",
+      "description": "Autem temporibus optio occaecati aut dolorem molestiae.",
+      "location": "Noemitown",
+      "pay": 0.37789086683167294,
+      "intakePeriod": "Spring 2029"
+    },
+    {
+      "name": "Marketing Strategist",
+      "domain": "Sales",
+      "description": "Voluptas dolores reprehenderit.",
+      "location": "Lake Julianefurt",
+      "pay": 0.8910143863173318,
+      "intakePeriod": "Spring 2029"
+    },
+    {
+      "name": "Legacy Assistant",
+      "domain": "Consulting",
+      "description": "Earum dolorum consequatur voluptas alias omnis rerum id.",
+      "location": "O\u0027Connellhaven",
+      "pay": 0.32133238774428574,
+      "intakePeriod": "Fall 2024"
+    },
+    {
+      "name": "Construction Planner",
+      "domain": "Community-Services",
+      "description": "Perspiciatis expedita possimus quis.",
+      "location": "Percyport",
+      "pay": 0.3535754879839622,
+      "intakePeriod": "Spring 2023"
+    }
+  ]
+}
+]

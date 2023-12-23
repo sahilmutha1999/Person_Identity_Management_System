@@ -1,0 +1,26 @@
+[
+    {
+        "name": "AWS",
+        "country": "USA",
+        "username": "aws",
+        "password": "aws"
+    },
+    {
+        "name": "Udemy",
+        "country": "UK",
+        "username": "udemy",
+        "password": "udemt"
+    },
+    {
+        "name": "Khan Academy",
+        "country": "India",
+        "username": "khan",
+        "password": "khan"
+    },
+    {
+        "name": "Coursera",
+        "country": "US",
+        "username": "coursera",
+        "password": "coursera"
+    }
+]
